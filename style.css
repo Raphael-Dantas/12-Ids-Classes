@@ -1,0 +1,23 @@
+/* #descricao-ssd {
+    background-color: orange;
+
+}
+ESSA É UMA FORMA
+#descricao-teclado {
+    background-color: orange;
+
+} */
+
+/* #descricao-ssd, #descricao-teclado{
+    background-color: orange;
+} */
+
+.descricao-produto {
+    background-color: black;
+    color: white;
+
+}
+
+.promocao{
+    border: solid 2px red;
+}
